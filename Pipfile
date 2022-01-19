@@ -15,6 +15,9 @@ uvicorn = "==0.15.0"
 tabulate = "==0.8.6"
 future = "==0.18.2"
 opendatasets = "==0.1.20"
+sklearn = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
