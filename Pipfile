@@ -18,6 +18,7 @@ opendatasets = "==0.1.20"
 sklearn = "*"
 matplotlib = "*"
 seaborn = "*"
+xgboost = "*"
 
 [dev-packages]
 
