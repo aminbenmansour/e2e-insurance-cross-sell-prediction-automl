@@ -14,7 +14,7 @@ st.title('End-to-End AutoML Project: Insurance Cross-Sell')
 
 # Set FastAPI endpoint
 endpoint = 'http://localhost:8000/predict'
-st.text('''Author: Kenneth Leung''') # description and instructions
+st.text('''Author: Amine Ben Mansour''') # description and instructions
 
 test_csv = st.file_uploader('', type=['csv','xlsx'], accept_multiple_files=False)
 
