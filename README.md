@@ -1,9 +1,17 @@
 # e2e-automl-cross-sell-prediction
-## introduction
+
+# :warning: Disclaimer
+
+**:warning: This is not my idea neither my work**, instead of forking this [repo](https://github.com/kennethleungty/End-to-End-AutoML-Insurance), I wanted to follow along step by step with the help of this [article](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606).
+Special thanks to the original author. mr. [Kenneth Leung](https://www.linkedin.com/in/kennethleungty/) for his valuable writings and contributions. Please consider supporting him and giving his [data science portfolio](https://github.com/kennethleungty) a look.
+
+Please consider 
+
+# introduction
 
 This project aims to make cross-selling more efficient and targeted by building an ML pipeline to **identify health insurance customers interested in purchasing additional vehicle insurance**.
 
-## tools overview
+# toolkits overview
 
 - **H2O AutoML**
 
