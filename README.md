@@ -6,8 +6,6 @@
 
 Special thanks to the original author. mr. [Kenneth Leung](https://www.linkedin.com/in/kennethleungty/) for his valuable writings and contributions. Please consider supporting him and giving his [data science portfolio](https://github.com/kennethleungty) a look.
 
-Please consider 
-
 # introduction
 
 This project aims to make cross-selling more efficient and targeted by building an ML pipeline to **identify health insurance customers interested in purchasing additional vehicle insurance**.
